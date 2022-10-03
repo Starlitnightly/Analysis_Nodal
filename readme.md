@@ -1,6 +1,6 @@
-# Combinatorial regulation of nodal genes by maternal Eomesa, Hwa/β-Catenin and Nodal/Smad2 in the zebrafish
+# Regulatory factors identification for nodal genes in zebrafish by causal inference
 
-This repository contains the scripts to reproduce the result of the manuscript [*Combinatorial regulation of nodal genes by maternal Eomesa, Hwa/β-Catenin and Nodal/Smad2 in the zebrafish*]( )
+This repository contains the scripts to reproduce the result of the manuscript [*Regulatory factors identification for nodal genes in zebrafish by causal inference*]( )
 
 ## Abstract
 
