@@ -1,6 +1,6 @@
 # Regulatory factors identification for nodal genes in zebrafish by causal inference
 
-This repository contains the scripts to reproduce the result of the manuscript [*Regulatory factors identification for nodal genes in zebrafish by causal inference*]( )
+This repository contains the scripts to reproduce the result of the manuscript [*Regulatory factors identification for nodal genes in zebrafish by causal inference*](https://www.frontiersin.org/articles/10.3389/fcell.2022.1047363/abstract )
 
 ## Abstract
 
